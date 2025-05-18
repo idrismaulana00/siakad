@@ -1,8 +1,15 @@
-# p6siakad
+# siakad mobile
 
-fitur apsensi
+Features available on the SIAKAD application:
 
-A new Flutter project.
+- GPA and SKS
+- Attendance
+- KRS
+- Schedule
+- Announcement
+- Payment
+- Certification
+- Others
 
 ## Getting Started
 
