@@ -11,6 +11,8 @@ Features available on the SIAKAD application:
 - Certification
 - Others
 
+![alt text](https://github.com/idrismaulana00/siakad/blob/main/assets/image/Capture1.PNG?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
