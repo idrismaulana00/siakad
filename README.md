@@ -1,4 +1,4 @@
-# siakad mobile flutter
+# siakad flutter
 
 Features available on the SIAKAD application:
 
